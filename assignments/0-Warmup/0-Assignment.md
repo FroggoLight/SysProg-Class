@@ -23,19 +23,20 @@ Please provide answers to these questions using markdown notation and place them
 
     - [ ] drexel's tux cluster
     - [ ] WSL on Windows
-    - [ ] Orbstack on MacOs
+    - [x] Orbstack on MacOs
     - [ ] VMWare Fusion
     - [ ] Somthing else (put name here)
 
 2. I have installed my virtual machine, tested it, feel comfortable using it, and validated that the required software is installed:
 
-    - [ ] YES
+    - [x] YES
     - [ ] N/A - I plan to use tux
     - [ ] NO - Not Yet
 
 
 3. Please provide a link to the repository you are using for this class.
-
+[The Link](https://github.com/FroggoLight/SysProg-Class)
 4. Briefly describe what you want to get out of this class.
-
+To learn the technical details of how programs work and potentially be able to apply it in future careers
 5. Briefly describe any concerns you might be having with being successful in this class (if any).
+I need to spend a good chunk of time on finding a co-op throughout this term and may not be able to focus as much 
