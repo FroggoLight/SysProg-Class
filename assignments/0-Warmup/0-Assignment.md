@@ -35,8 +35,13 @@ Please provide answers to these questions using markdown notation and place them
 
 
 3. Please provide a link to the repository you are using for this class.
+
 [The Link](https://github.com/FroggoLight/SysProg-Class)
+
 4. Briefly describe what you want to get out of this class.
+
 To learn the technical details of how programs work and potentially be able to apply it in future careers
+
 5. Briefly describe any concerns you might be having with being successful in this class (if any).
+
 I need to spend a good chunk of time on finding a co-op throughout this term and may not be able to focus as much 
